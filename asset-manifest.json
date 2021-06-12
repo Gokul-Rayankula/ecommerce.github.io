@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a78cca69.chunk.css",
+    "main.js": "/static/js/main.d95e38c9.chunk.js",
+    "main.js.map": "/static/js/main.d95e38c9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f55d9667.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f55d9667.js.map",
+    "static/js/2.8f349fb2.chunk.js": "/static/js/2.8f349fb2.chunk.js",
+    "static/js/2.8f349fb2.chunk.js.map": "/static/js/2.8f349fb2.chunk.js.map",
+    "static/js/3.cb4ab9f5.chunk.js": "/static/js/3.cb4ab9f5.chunk.js",
+    "static/js/3.cb4ab9f5.chunk.js.map": "/static/js/3.cb4ab9f5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a78cca69.chunk.css.map": "/static/css/main.a78cca69.chunk.css.map",
+    "static/js/2.8f349fb2.chunk.js.LICENSE.txt": "/static/js/2.8f349fb2.chunk.js.LICENSE.txt",
+    "static/media/avatar.28f8f0f6.svg": "/static/media/avatar.28f8f0f6.svg",
+    "static/media/blog1.c4312535.jpg": "/static/media/blog1.c4312535.jpg",
+    "static/media/blog2.50f31f0e.jpg": "/static/media/blog2.50f31f0e.jpg",
+    "static/media/blog3.e620e66f.jpg": "/static/media/blog3.e620e66f.jpg",
+    "static/media/bulk.529d6cf6.svg": "/static/media/bulk.529d6cf6.svg",
+    "static/media/ecobulb.e4d7d3f6.jpg": "/static/media/ecobulb.e4d7d3f6.jpg",
+    "static/media/leaves.3d9ba0a2.svg": "/static/media/leaves.3d9ba0a2.svg",
+    "static/media/new_logo_foot.5f938913.svg": "/static/media/new_logo_foot.5f938913.svg",
+    "static/media/palmleafcontainer.6b1f3ea5.jpg": "/static/media/palmleafcontainer.6b1f3ea5.jpg",
+    "static/media/palmleafheartbowl.3f296953.jpg": "/static/media/palmleafheartbowl.3f296953.jpg",
+    "static/media/quality.b3aa765d.svg": "/static/media/quality.b3aa765d.svg",
+    "static/media/roundbowl.9f1153ec.jpg": "/static/media/roundbowl.9f1153ec.jpg",
+    "static/media/roundplate.7f373d6e.jpg": "/static/media/roundplate.7f373d6e.jpg",
+    "static/media/roundtray.b30cfcd8.jpg": "/static/media/roundtray.b30cfcd8.jpg",
+    "static/media/sellsage.0caff522.svg": "/static/media/sellsage.0caff522.svg",
+    "static/media/truck.b57c19e3.png": "/static/media/truck.b57c19e3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55d9667.js",
+    "static/js/2.8f349fb2.chunk.js",
+    "static/css/main.a78cca69.chunk.css",
+    "static/js/main.d95e38c9.chunk.js"
+  ]
+}
